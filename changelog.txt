@@ -1,0 +1,64 @@
+*** Lilac WordPress Theme Changelog ***
+
+Version 1.1.1
+
+    * Compatible: Latest WordPress Version    
+    * Compatible: Latest Elementor  Version
+    * Importer source updated
+    * Fixed: Bulk plugin installation error
+    * Fixed: Minor bugs
+
+Version 1.1.0
+
+    * Fixed: Product listings shortcode issue
+    * Compatible: Latest WordPress version
+    * Compatible: Latest elementor version
+
+Version 1.0.9
+
+    * Fixed : Product carousel style issue fixed
+    * Compatible : Latest WordPress Version
+    * Compatible : Latest Elementor Version
+
+Version 1.0.8
+
+    * Beauty Additional demo content added on external space
+    * Compatible : Latest Elementor Version
+    * Compatible : Latest WordPress Version
+
+Version 1.0.7
+
+    * Compatible : Latest Elementor Version
+    * Unyson plugin source updated
+
+Version 1.0.6
+
+    * Fixed: Elementor Addon plugin Elementor deprecated error
+
+Version 1.0.5
+
+    * Fixed: Shop plugin installation issue
+    * Updates: JS script updated
+
+Version 1.0.4
+
+    * Compatible: Latest elementor version for elementor addon
+    * Compatible: Latest WooCommerce version for shop modules
+    * Compatible: Latest WordPress version
+    * Fixed: Beauty additional demo pro plugin installation issue fixed
+
+Version 1.0.3
+
+    * RTL demo content added and updated
+
+Version 1.0.2
+
+    * Beauty additional demo content added
+
+Version 1.0.1
+
+    * Demo content added
+
+Version 1.0.0
+
+    * First release!
